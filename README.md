@@ -5,6 +5,5 @@
 - i have a laptop thats decent enough to run big games, NOT A NASA COMPUTER LOLOL
 
 <!---
-chaostic823/chaostic823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+learning how to code on github, since i have no knowledge of it, so yeah. like mod and stuff, idk. I am VERY inexperienced with coding so dont ask me to code for you or etc idk, lol.
 --->
